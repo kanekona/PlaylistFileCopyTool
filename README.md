@@ -1,0 +1,2 @@
+# PlaylistFileCopyTool
+WindowsMediaPlayerのプレイリストのファイルを一括コピーするツール
