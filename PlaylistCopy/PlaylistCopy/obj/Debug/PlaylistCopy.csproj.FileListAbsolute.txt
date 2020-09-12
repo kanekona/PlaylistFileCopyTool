@@ -1,0 +1,10 @@
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\bin\Debug\PlaylistCopy.exe.config
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\bin\Debug\PlaylistCopy.exe
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\bin\Debug\PlaylistCopy.pdb
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\obj\Debug\PlaylistCopy.csprojAssemblyReference.cache
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\obj\Debug\PlaylistCopy.Form1.resources
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\obj\Debug\PlaylistCopy.Properties.Resources.resources
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\obj\Debug\PlaylistCopy.csproj.GenerateResource.cache
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\obj\Debug\PlaylistCopy.csproj.CoreCompileInputs.cache
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\obj\Debug\PlaylistCopy.exe
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\obj\Debug\PlaylistCopy.pdb

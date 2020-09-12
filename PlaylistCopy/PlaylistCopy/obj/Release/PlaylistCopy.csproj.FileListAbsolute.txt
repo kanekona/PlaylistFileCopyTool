@@ -1,0 +1,9 @@
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\bin\Release\PlaylistCopy.exe.config
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\bin\Release\PlaylistCopy.exe
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\bin\Release\PlaylistCopy.pdb
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\obj\Release\PlaylistCopy.Form1.resources
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\obj\Release\PlaylistCopy.Properties.Resources.resources
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\obj\Release\PlaylistCopy.csproj.GenerateResource.cache
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\obj\Release\PlaylistCopy.csproj.CoreCompileInputs.cache
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\obj\Release\PlaylistCopy.exe
+D:\git\PlaylistCopy\PlaylistCopy\PlaylistCopy\obj\Release\PlaylistCopy.pdb
